@@ -9,9 +9,10 @@
 				"-fdiagnostics-color=always",
 				"-std=c++20",
 				"-g",
-				"${file}",
+				"ylm.cpp",
+				"main.cpp",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+				"${fileDirname}\\ylm.exe"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
