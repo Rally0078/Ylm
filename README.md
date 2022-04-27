@@ -6,7 +6,7 @@ The function is:
 ```cpp
 std::complex<double> Ylm(unsigned l, unsigned m, double theta, double phi)
 ```
-This computes the spherical harmonic of the given two angles theta, phi of order n, and degree m.
+This computes the (quantum mechanical) spherical harmonic of the given two angles theta, phi of order n, and degree m.
 
 ![img1]
 
