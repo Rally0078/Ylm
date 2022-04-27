@@ -6,7 +6,7 @@
 #include <numbers>
 
 unsigned int factorial(unsigned int num);
-std::complex<double> Ylm(unsigned int n, unsigned int m, double theta, double phi);
+std::complex<double> Ylm(unsigned int l, unsigned int m, double theta, double phi);
 
 #endif
 
